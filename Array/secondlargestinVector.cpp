@@ -32,3 +32,11 @@ public:
       
     
 };
+int main() {
+    vector<int> nums = {10, 5, 20, 8, 20};
+
+    Solution s;
+    s.secondLargestElement(nums);
+
+    return 0;
+}
