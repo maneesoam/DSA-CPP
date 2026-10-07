@@ -3,14 +3,12 @@ public:
     int pivotIndex(vector<int>& nums) {
         int totalSum = 0;
 
-        // Calculate total sum
+        
         for (int x : nums) {
             totalSum += x;
         }
 
         int leftSum = 0;
-
-        // Check every index
         for (int i = 0; i < nums.size(); i++) {
             
             int rightSum = totalSum - leftSum - nums[i];
