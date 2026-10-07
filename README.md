@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/maneesoam/DSA-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/maneesoam/DSA-CPP/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/maneesoam/DSA-CPP/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/maneesoam/DSA-CPP/tree/master/0032-longest-valid-parentheses) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/maneesoam/DSA-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1096-brace-expansion-ii](https://github.com/maneesoam/DSA-CPP/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/maneesoam/DSA-CPP/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/maneesoam/DSA-CPP/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/maneesoam/DSA-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/maneesoam/DSA-CPP/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
