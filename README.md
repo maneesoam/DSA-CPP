@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/maneesoam/DSA-CPP/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0724-find-pivot-index](https://github.com/maneesoam/DSA-CPP/tree/master/0724-find-pivot-index) |
 | [1254-number-of-closed-islands](https://github.com/maneesoam/DSA-CPP/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/maneesoam/DSA-CPP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/maneesoam/DSA-CPP/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/maneesoam/DSA-CPP/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/maneesoam/DSA-CPP/tree/master/2409-count-days-spent-together) |
 | [3525-find-x-value-of-array-ii](https://github.com/maneesoam/DSA-CPP/tree/master/3525-find-x-value-of-array-ii) |
