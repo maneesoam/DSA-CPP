@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/maneesoam/DSA-CPP/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/maneesoam/DSA-CPP/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/maneesoam/DSA-CPP/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/maneesoam/DSA-CPP/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3525-find-x-value-of-array-ii](https://github.com/maneesoam/DSA-CPP/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/maneesoam/DSA-CPP/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/maneesoam/DSA-CPP/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
