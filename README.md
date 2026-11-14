@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/maneesoam/DSA-CPP/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/maneesoam/DSA-CPP/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/maneesoam/DSA-CPP/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/maneesoam/DSA-CPP/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/maneesoam/DSA-CPP/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3525-find-x-value-of-array-ii](https://github.com/maneesoam/DSA-CPP/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/maneesoam/DSA-CPP/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -101,12 +102,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/maneesoam/DSA-CPP/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/maneesoam/DSA-CPP/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/maneesoam/DSA-CPP/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/maneesoam/DSA-CPP/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/maneesoam/DSA-CPP/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/maneesoam/DSA-CPP/tree/master/0724-find-pivot-index) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/maneesoam/DSA-CPP/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/maneesoam/DSA-CPP/tree/master/3364-minimum-positive-sum-subarray) |
 ## Backtracking
 |  |
 | ------- |
